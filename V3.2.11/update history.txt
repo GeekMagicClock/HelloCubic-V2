@@ -1,0 +1,2 @@
+V3.2.11
+1）add stock/bitcoin chart, support up to 10 stocks/coins

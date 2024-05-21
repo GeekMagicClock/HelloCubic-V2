@@ -1,0 +1,17 @@
+V3.2.15 20240521
+1) Fix crash in picture app.
+2) Add wifi reconnect strategy.
+
+V3.2.14 20240113
+1) add change display from the web.
+2) add github link/ model/ version to the web page.
+
+V3.2.13 20231226
+1) add crypto icons.
+2) add gif/jpg clear option.
+
+V3.2.12 20231215
+1) add new bitcoin App UI.
+
+V3.2.11
+1）add stock/bitcoin chart, support up to 10 stocks/coins

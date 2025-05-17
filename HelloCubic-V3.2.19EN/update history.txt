@@ -1,0 +1,32 @@
+V3.2.19 20250517
+1) Fix Stock App fetch data error.
+
+V3.2.17 20240605
+1) Fix Stock app errors.
+
+V3.2.16 20240521
+1) Add more theme to Bitcoin app.
+2) Add more time options to nightmode.
+3) Add gif link to web.
+4) Fix jpg upload on web.
+5) Fix 12-hour format in Time App.
+6) Optimize exit Stock App.
+7) Add more time sync strategy.
+
+V3.2.15 20240521
+1) Fix crash in picture app.
+2) Add wifi reconnect strategy.
+
+V3.2.14 20240113
+1) add change display from the web.
+2) add github link/ model/ version to the web page.
+
+V3.2.13 20231226
+1) add crypto icons.
+2) add gif/jpg clear option.
+
+V3.2.12 20231215
+1) add new bitcoin App UI.
+
+V3.2.11
+1）add stock/bitcoin chart, support up to 10 stocks/coins
